@@ -4,6 +4,8 @@ let dia = prompt("Digite o dia do seu nascimento(ex: 1-31):");
 
 let nomeDaBanda = "";
 
+
+
 switch (mes) {
     case "jan":
         nomeDaBanda = "Capirotos";
